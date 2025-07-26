@@ -1,48 +1,96 @@
-# 🎨 UI-UX Designs
+<h1 align="center">🎨 UI/UX Designs Playground</h1>
+<p align="center">
+  <b>A collection of handcrafted HTML/CSS UI concepts, micro-interactions, and animation experiments.</b><br>
+  <i>Built with 💡 logic, 🎯 precision, and 🎨 style — one design at a time.</i>
+</p>
 
-A curated collection of simple yet elegant **UI/UX design concepts** built using **HTML**, **CSS**, and pure creative logic. Each mini-project is a standalone UI component or animation that reflects clean design thinking and practical usability.
+<p align="center">
+  <a href="https://sivanesanr17.github.io/UI-UX-Designs/" target="_blank">
+    🔗 Live Preview
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/sivanesanr17/UI-UX-Designs/issues">🛠 Request a Feature</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="LICENSE">📝 License</a>
+</p>
 
-> ✨ Perfect for learning front-end design principles, animation logic, and CSS mastery.
+<p align="center">
+  <img src="https://img.shields.io/github/stars/sivanesanr17/UI-UX-Designs?style=flat-square" />
+  <img src="https://img.shields.io/github/forks/sivanesanr17/UI-UX-Designs?style=flat-square" />
+  <img src="https://img.shields.io/github/issues/sivanesanr17/UI-UX-Designs?style=flat-square" />
+  <img src="https://img.shields.io/badge/PRs-Welcome-21ba45.svg?style=flat-square" />
+</p>
 
 ---
 
-## 🚀 Live Preview
+## 🧭 Table of Contents
 
-🔗 [View on GitHub Pages](https://sivanesanr17.github.io/UI-UX-Designs/)
+- [Overview](#-overview)
+- [Live Demo](#-live-demo)
+- [Design Previews](#-design-previews)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Getting Started](#-getting-started)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ---
 
-## 🧩 What’s Inside?
+## 📦 Overview
 
-Each folder showcases a specific design component or interaction. Here are some examples:
+**UI-UX Designs** is a growing gallery of clean, accessible, and modern UI/UX components, animations, and page layouts built using just **HTML and CSS**. It's a visual sandbox for UI developers and designers to learn, build, and get inspired.
 
-- **Modern Button Animations**
-- **Loader Animations**
-- **Interactive Cards**
-- **Minimalist Navigation Menus**
-- **Form UI Enhancements**
-- **Dark/Light Mode toggles**
+---
 
-💡 You can explore each folder separately for source code and visual output.
+## 🔗 Live Demo
+
+> Browse it live on GitHub Pages  
+👉 **[sivanesanr17.github.io/UI-UX-Designs](https://sivanesanr17.github.io/UI-UX-Designs/)**
+
+---
+
+## 🖼️ Design Previews
+
+| Design | Preview |
+|--------|---------|
+| Button Hover Animation | ![Button](previews/button.gif) |
+| Card Flip UI | ![Card](previews/card.gif) |
+| Loader Animation | ![Loader](previews/loader.gif) |
+| Glass UI | _Coming soon..._ |
+
+> ℹ️ Previews are being added. Want to help? [Submit your own](#-contributing)!
+
+---
+
+## ✨ Features
+
+- 🎨 **Pure HTML + CSS**: No dependencies, no JavaScript clutter.
+- 🔄 **Reusable** components – drop them into your projects instantly.
+- 🧪 **CSS experiments** – blend of creativity and logic.
+- 📱 **Responsive-first** mindset.
+- 🚀 **Blazing fast**: Zero bloat, optimized for performance.
 
 ---
 
 ## 🛠 Tech Stack
 
-- **HTML5** – semantic structure
-- **CSS3** – transitions, transforms, animations
-- **No JavaScript** – (in most designs) to focus on CSS logic
-- **GitHub Pages** – for deployment
+| Layer | Tools |
+|-------|-------|
+| Markup | HTML5 |
+| Styling | CSS3 (including Flexbox, Grid, Animations) |
+| Deployment | GitHub Pages |
+| Tools | VSCode, Live Server, Git |
 
 ---
 
-## 📂 How to Use
+## 🧰 Getting Started
 
 ```bash
-# Clone the repo
+# Clone the repository
 git clone https://github.com/sivanesanr17/UI-UX-Designs.git
 
-# Open any folder
-cd UI-UX-Designs/modern-button
+# Move into any UI folder
+cd UI-UX-Designs/button-animation/
 
-# Open the index.html file in your browser
+# Open with your browser
+open index.html
